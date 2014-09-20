@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5019
+
+This keymap (based on vimscript #4147 by Júda Ronén) allows the input of basic Old English/Anglo Saxon text using a standard keyboard. It has been simplified from the original thereby losing some features but becoming much easier to use. It is suitable for most work done by those learning the language.
+
+For example, to input "æ" type "ae". For "ā", type "-a". Read the source in oengsimple.vim for more details.
